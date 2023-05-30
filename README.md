@@ -1,5 +1,5 @@
 # ACETest
-This repo maintains the source code and other data for our research paper, "ACETest: Automated Constraint Extraction for Testing Deep Learning Operators", which is accepted by ISSTA 2023.
+This repo maintains the source code and other data for our research paper, "ACETest: Automated Constraint Extraction for Testing Deep Learning Operators", which is accepted by ISSTA 2023. ([preprint](https://arxiv.org/abs/2305.17914))
 
 
 
