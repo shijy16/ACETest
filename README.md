@@ -72,7 +72,7 @@ python main.py --test_round=5000 --mode=all --framework=tf --work_path=output --
 To test all operators, use the `filter=all` option:
 
 ```
-python main.py --test_round=5000 --mode=all --framework=tf --work_path=output
+python main.py --test_round=5000 --mode=all --framework=tf --work_path=output --filter=all
 ```
 
 #### Main Options
