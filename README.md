@@ -42,7 +42,7 @@ But it is okay to test other versions.
 
 Download the necessary constraints and auxiliary files from the following link:
 
-[Download Auxiliary Files](https://drive.google.com/file/d/1BcidVT_j_Fgwg7XyL4lK_59Xc61NlIjE/view?usp=sharing)
+[Download Auxiliary Files](https://drive.google.com/drive/folders/1LFsvneuoZ-eaZXhFHog24ZXsKs3q4cAv?usp=sharing)
 
 After downloading, place the uncompressed files in the `Tester/data` directory to maintain the correct directory structure:
 
