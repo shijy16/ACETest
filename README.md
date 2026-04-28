@@ -29,6 +29,9 @@ ACETest requires the following Python packages:
 
 - `z3-solver`
 - `sysv_ipc`
+- `bs4`
+- `termcolor`
+
 
 #### Supported AI Frameworks
 
